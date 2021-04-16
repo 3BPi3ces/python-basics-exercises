@@ -1,6 +1,6 @@
 # 4.3 - Use String Methods
 # Solutions to review exercies
-
+# Proposal in comment - "ThatsMe"
 
 # Exercise 1
 string1 = "Animals"
